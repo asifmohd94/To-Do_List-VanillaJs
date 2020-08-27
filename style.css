@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+}
+
+header{
+    text-align: center;
+}
+
+#container{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+
+
+#add-task{
+    width: 80%;
+    height: 30px;
+    border: 1px solid black;
+}
+
+#list{
+    list-style: none;
+    margin-top: 20px;
+}
+#list li{
+    margin: 10px 0;
+    padding: 5px 0;
+}
